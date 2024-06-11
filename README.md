@@ -1,1 +1,1 @@
-# ES6-Note
+# Note
